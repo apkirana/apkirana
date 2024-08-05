@@ -49,7 +49,7 @@ Hello! I'm **Annisa Puspa Kirana**, an experienced Data Analyst and Information 
 
 ## Google Scholar
 
-You can view my academic publications and research profile on [Google Scholar](https://scholar.google.com/citations?user=YourScholarID).
+You can view my academic publications and research profile on [Google Scholar](https://scholar.google.com/citations?user=BQl6KOsAAAAJ&hl=en).
 
 ## Contact
 
@@ -59,13 +59,14 @@ You can view my academic publications and research profile on [Google Scholar](h
 
 ## Projects
 
-### Project 1: [Project Name](link to project)
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies.
+### Project 1: [Project Air Quality Analysis](https://github.com/apkirana/project-air-quality-analysis)
+  * Description: Analysis of air quality data using various data processing and visualization techniques.
+  * Technologies Used: Python, Pandas, Matplotlib, Seaborn
 
-### Project 2: [Project Name](link to project)
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies.
+### Project 2: [Project Air Quality Flask](https://github.com/apkirana/project-air_quality_flask)
+  * Description: A web application for visualizing air quality data using Flask.
+  * Technologies Used: Flask, Python, HTML, CSS, JavaScript
+
 
 ... (Add more projects as needed)
 
