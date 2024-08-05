@@ -29,7 +29,7 @@ Hello! I'm **Annisa Puspa Kirana**, an experienced Data Analyst and Information 
 
 - **MCE: Microsoft Certified Educator** (Certiport, 2022 – Present)
 - **IT Specialist - HTML and CSS** (Certiport, 2022 – Present)
-- **Certification - Junior Web Developer II** (BNSP, 2021 – 2023)
+- **Certification - Junior Web Developer I** (BNSP, 2021 – 2023)
 - **Certification - Junior Web Developer** (BNSP, 2020 – 2022)
 - **Certification - Administrating Database** (BNSP, 2019 – 2021)
 
@@ -46,6 +46,10 @@ Hello! I'm **Annisa Puspa Kirana**, an experienced Data Analyst and Information 
 - "Spatio-Temporal Pattern Analysis of Forest Fire in Malang using K-Means Clustering" (2023)
 - "Geospatial Analysis and Mapping of Natural Disasters in Situbondo, Indonesia" (2023)
 - "The Detection of Indonesian Hoax Content about COVID-19 Vaccine using Naive Bayes Multinomial Method" (2023)
+
+## Google Scholar
+
+You can view my academic publications and research profile on [Google Scholar](https://scholar.google.com/citations?user=YourScholarID).
 
 ## Contact
 
