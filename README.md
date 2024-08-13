@@ -59,15 +59,15 @@ You can view my academic publications and research profile on [Google Scholar](h
 
 ## Projects
 
-### [Project Air Quality Analysis](https://github.com/apkirana/project-air-quality-analysis)
+### Project 1 : [Project Air Quality Analysis](https://github.com/apkirana/project-air-quality-analysis)
   * Description: Analysis of air quality data using various data processing and visualization techniques.
   * Technologies Used: Python, Pandas, Matplotlib, Seaborn
 
-### [Project Air Quality Flask](https://github.com/apkirana/project-air_quality_flask)
+### Project 2 : [Project Air Quality Flask](https://github.com/apkirana/project-air_quality_flask)
   * Description: A web application for visualizing air quality data using Flask.
   * Technologies Used: Flask, Python, HTML, CSS, JavaScript
 
-### [Project Polusi Kalimantan](https://github.com/apkirana/project_polusikalimantan)
+### Project 3 : [Project Polusi Kalimantan](https://github.com/apkirana/project_polusikalimantan)
 - **Description:** 
   "Project Polusi Kalimantan" is dedicated to the analysis and visualization of air pollution data, specifically focusing on PM2.5 levels across various regions in Kalimantan. The project includes a comprehensive web application built with Flask, which allows users to explore and visualize pollution trends on a monthly and yearly basis. The application also incorporates a Naive Bayes classifier to categorize pollution levels, making the data analysis more interactive and informative. The project aims to provide insights into the environmental conditions in Kalimantan and supports better decision-making regarding air quality management.
 
@@ -81,7 +81,7 @@ You can view my academic publications and research profile on [Google Scholar](h
   - **HTML/CSS:** Used for structuring and styling the web application's frontend.
   - **Bootstrap:** A front-end framework that helps in creating responsive, mobile-first web designs.
 
-### [Project Data Analysis with Bootstrap](https://github.com/apkirana/project-dataanalysis-bootstrap)
+### Project 4 : [Project Data Analysis with Bootstrap](https://github.com/apkirana/project-dataanalysis-bootstrap)
 - **Description:** 
   "Project Data Analysis with Bootstrap" is a project focused on integrating data analysis with a visually appealing and responsive front-end design using Bootstrap. The project demonstrates how data insights can be presented in a user-friendly manner, making complex data more accessible to a broader audience. The application showcases various data analysis techniques, with results presented through dynamic, well-designed web pages. The project highlights the importance of effective data visualization and user interface design in data-driven projects.
 
@@ -96,7 +96,7 @@ You can view my academic publications and research profile on [Google Scholar](h
 
 This project serves as a bridge between data analysis and front-end development, showing how powerful data insights can be made accessible through effective web design. It is ideal for those looking to learn how to present data analysis results in a polished, professional manner using modern web development tools.
 
-### [Project Indonesia Air Pollution](https://github.com/apkirana/project-indonesia-airpolution)
+### Project 5 : [Project Indonesia Air Pollution](https://github.com/apkirana/project-indonesia-airpolution)
 - **Description:** 
   "Project Indonesia Air Pollution" is focused on analyzing and visualizing air pollution data across various regions in Indonesia. The project aims to provide insights into the air quality conditions in different cities, with a particular emphasis on PM2.5 levels. Through this analysis, the project helps in understanding pollution trends, identifying problem areas, and facilitating informed decision-making for environmental management. The project also includes the development of interactive visualizations that allow users to explore the data in a meaningful way.
 
@@ -111,7 +111,7 @@ This project serves as a bridge between data analysis and front-end development,
 
 This project plays a crucial role in raising awareness about air quality issues in Indonesia by providing detailed analysis and interactive visualizations. It serves as a valuable tool for researchers, policymakers, and the general public interested in environmental health.
 
-### [Project Game WebPlane](https://github.com/apkirana/project-game-webplane)
+### Project 6 :  [Project Game WebPlane](https://github.com/apkirana/project-game-webplane)
 - **Description:** 
   "Project Game WebPlane" is a web-based game developed using modern web technologies. The game is an interactive, browser-based experience where players control a plane to navigate through obstacles and achieve high scores. The project showcases game development principles, including collision detection, real-time rendering, and user interaction within a web environment. The game's design focuses on providing an engaging and responsive gaming experience directly within the web browser.
 
