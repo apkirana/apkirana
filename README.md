@@ -60,8 +60,8 @@ You can view my academic publications and research profile on [Google Scholar](h
 ## Projects
 
 ### Project 1 : [Project Air Quality Analysis](https://github.com/apkirana/project-air-quality-analysis)
-`*Description: Analysis of air quality data using various data processing and visualization techniques.
-  * Technologies Used: Python, Pandas, Matplotlib, Seaborn`
+* Description: Analysis of air quality data using various data processing and visualization techniques.
+  * Technologies Used: Python, Pandas, Matplotlib, Seaborn
 
 ### Project 2 : [Project Air Quality Flask](https://github.com/apkirana/project-air_quality_flask)
   * Description: A web application for visualizing air quality data using Flask.
