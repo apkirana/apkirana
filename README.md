@@ -10,10 +10,27 @@
 
 ---
 
+## Table of Contents
+- [👩‍💻 About Me](#-about-me)
+- [🚀 Most Used Languages](#-most-used-languages)
+- [💼 Experience](#-experience)
+- [📜 Certifications](#-certifications)
+- [🛠️ Skills](#-skills)
+- [📚 Publications](#-publications)
+- [📫 How to Reach Me](#-how-to-reach-me)
+- [🚀 Projects](#-projects)
+  - [🌍 Project 1: Project Air Quality Analysis](#-project-1-project-air-quality-analysis)
+  - [🌐 Project 2: Project Air Quality Flask](#-project-2-project-air-quality-flask)
+  - [🏞️ Project 3: Project Polusi Kalimantan](#-project-3-project-polusi-kalimantan)
+  - [📊 Project 4: Project Data Analysis with Bootstrap](#-project-4-project-data-analysis-with-bootstrap)
+  - [🌏 Project 5: Project Indonesia Air Pollution](#-project-5-project-indonesia-air-pollution)
+  - [🕹️ Project 6: Project Game WebPlane](#-project-6-project-game-webplane)
+
+---
+
 ## 👩‍💻 About Me
 
 I’m an experienced **Data Analyst** and **Information Technology Lecturer** with a strong background in **data mining**, **GIS**, **machine learning**, and **data visualization**. I’m passionate about transforming data into actionable insights and driving data-driven decision-making.
-
 
 ---
 
@@ -21,6 +38,7 @@ I’m an experienced **Data Analyst** and **Information Technology Lecturer** wi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apkirana&layout=compact&theme=radical)
 
 ---
+
 ## 💼 Experience
 
 - **State Polytechnic of Malang**  
@@ -73,8 +91,8 @@ I’m an experienced **Data Analyst** and **Information Technology Lecturer** wi
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/annisapuspakirana) or follow me on [Instagram](https://instagram.com/annisa.puspa.k). You can also visit my [personal website](https://linktr.ee/puspakirana) for more information about my work and publications. Check out my [YouTube channel](https://www.youtube.com/channel/UC8JmNUEqOwsyMBDs9sE1voA) and [Google Scholar profile](https://scholar.google.com/citations?user=BQl6KOsAAAAJ&hl=en) as well!
 
-
 ---
+
 ## 🚀 Projects
 
 ### 🌍 Project 1: [Project Air Quality Analysis](https://github.com/apkirana/project-air-quality-analysis)
@@ -85,7 +103,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/annisapus
 * **Description:** A web application for visualizing air quality data using Flask.
 * **Technologies Used:** 🌶️ Flask, 🐍 Python, 🌐 HTML, 🎨 CSS, 📜 JavaScript
 
-### 🏞️ Project 3: [Project Polusi Kalimantan](https://github.com/apkirana/project-polusikalimantan)
+### 🏞️ Project 3: [Project Polusi Kalimantan](https://github.com/apkirana/project-polusi-kalimantan)
 * **Description:** "Project Polusi Kalimantan" is dedicated to the analysis and visualization of air pollution data, focusing on PM2.5 levels across Kalimantan. It includes a web application built with Flask, featuring interactive visualizations and a Naive Bayes classifier.
 * **Technologies Used:**
   - 🐍 Python
@@ -108,7 +126,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/annisapus
   - 📊 Matplotlib & 🎨 Seaborn
   - 🌐 HTML/CSS
 
-### 🌏 Project 5: [Project Indonesia Air Pollution](https://github.com/apkirana/project-indonesia-airpolution)
+### 🌏 Project 5: [Project Indonesia Air Pollution](https://github.com/apkirana/project-indonesia-air-pollution)
 * **Description:** Focuses on analyzing and visualizing air pollution data across Indonesia, with an emphasis on PM2.5 levels. The project features interactive visualizations and supports better environmental decision-making.
 * **Technologies Used:**
   - 🐍 Python
