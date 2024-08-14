@@ -18,17 +18,10 @@ I’m an experienced **Data Analyst** and **Information Technology Lecturer** wi
 ---
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=apkirana&show_icons=true&theme=radical)
-<p align="center">
-  <a href="https://github.com/apkirana?tab=followers">
-    <img src="https://img.shields.io/github/followers/apkirana?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
-
-
 ## 🚀 Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apkirana&layout=compact&theme=radical)
+
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical)
 
 ---
 ## 💼 Experience
