@@ -71,7 +71,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/annisapus
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=apkirana" alt="Visitors">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=apkirana.apkirana" alt="Visitors">
   <a href="https://github.com/apkirana?tab=followers">
     <img src="https://img.shields.io/github/followers/apkirana?label=Followers&style=social" alt="GitHub Followers">
   </a>
