@@ -118,47 +118,19 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/annisapus
 
 ### 🏞️ Project 3: [Project Polusi Kalimantan](https://github.com/apkirana/project-polusi-kalimantan)
 * **Description:** "Project Polusi Kalimantan" is dedicated to the analysis and visualization of air pollution data, focusing on PM2.5 levels across Kalimantan. It includes a web application built with Flask, featuring interactive visualizations and a Naive Bayes classifier.
-* **Technologies Used:**
-  - 🐍 Python
-  - 🌶️ Flask
-  - 🐼 Pandas
-  - 📊 Matplotlib & 🎨 Seaborn
-  - 🌟 Jinja2
-  - 🧠 Scikit-learn
-  - 🌐 HTML/CSS
-  - 🎨 Bootstrap
+* **Technologies Used:** 🐍 Python, 🌶️ Flask, 🐼 Pandas, 📊 Matplotlib & 🎨 Seaborn, 🌟 Jinja2, 🧠 Scikit-learn, 🌐 HTML/CSS, 🎨 Bootstrap
 
 ### 📊 Project 4: [Project Data Analysis with Bootstrap](https://github.com/apkirana/project-dataanalysis-bootstrap)
 * **Description:** This project integrates data analysis with a responsive front-end design using Bootstrap. It demonstrates how data insights can be presented in a user-friendly and visually appealing manner.
-* **Technologies Used:**
-  - 🐍 Python
-  - 🐼 Pandas
-  - 🎨 Bootstrap
-  - 🌶️ Flask
-  - 🌟 Jinja2
-  - 📊 Matplotlib & 🎨 Seaborn
-  - 🌐 HTML/CSS
+* **Technologies Used:** 🐍 Python, 🐼 Pandas, 🎨 Bootstrap, 🌶️ Flask, 🌟 Jinja2, 📊 Matplotlib & 🎨 Seaborn, 🌐 HTML/CSS
 
 ### 🌏 Project 5: [Project Indonesia Air Pollution](https://github.com/apkirana/project-indonesia-air-pollution)
 * **Description:** Focuses on analyzing and visualizing air pollution data across Indonesia, with an emphasis on PM2.5 levels. The project features interactive visualizations and supports better environmental decision-making.
-* **Technologies Used:**
-  - 🐍 Python
-  - 🐼 Pandas
-  - 📊 Matplotlib & 🎨 Seaborn
-  - 🌶️ Flask
-  - 🌟 Jinja2
-  - 🗺️ Leaflet.js
-  - 🌐 HTML/CSS/📜 JavaScript
+* **Technologies Used:** 🐍 Python, 🐼 Pandas, 📊 Matplotlib & 🎨 Seaborn, 🌶️ Flask, 🌟 Jinja2, 🗺️ Leaflet.js, 🌐 HTML/CSS/📜 JavaScript
 
 ### 🕹️ Project 6: [Project Game WebPlane](https://github.com/apkirana/project-game-webplane)
 * **Description:** A web-based game where players control a plane to navigate through obstacles. The game is developed using modern web technologies and showcases game development principles for the web.
-* **Technologies Used:**
-  - 📜 JavaScript
-  - 🖼️ HTML5 Canvas
-  - 🎨 CSS
-  - 🎨 Bootstrap
-  - 💻 JQuery
-  - 🌐 GitHub Pages
+* **Technologies Used:** 📜 JavaScript, 🖼️ HTML5 Canvas, 🎨 CSS, 🎨 Bootstrap, 💻 JQuery, 🌐 GitHub Pages
 
 ---
 
