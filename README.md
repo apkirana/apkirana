@@ -57,23 +57,22 @@ I’m an experienced **Data Analyst** and **Information Technology Lecturer** wi
 - **State Polytechnic of Malang**  
   *Information Technology Lecturer*  
   *August 2018 – Present*  
-  - Developed course material, lesson plans, and curricula.
-  - Conducted research and engaged students in fieldwork.
+  - 📘 Developed course material, 📝 lesson plans, 📚 curricula, 🧪 Conducted research, 👥 Engaged students in fieldwork.
 
 - **Brawijaya University**  
   *Informatics Technology Lecturer*  
   *June 2017 – June 2018*  
-  - Created educational materials and led student research activities.
+  - 📘 Created educational materials, 👩‍🏫 Led student research activities.
 
 - **State University of Malang**  
   *Informatics Technology Lecturer*  
   *April 2016 – June 2017*  
-  - Focused on course development and student engagement.
+  - 📘 Focused on course development, 👥 Student engagement.
 
 - **IPB University**  
   *Data Mining Lab Assistant*  
   *October 2013 – August 2015*  
-  - Supported scientists and researchers in tests and experiments.
+  - 🧪 Supported scientists and researchers, 🔬 Tests and experiments.
 
 ---
 
