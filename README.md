@@ -16,9 +16,8 @@ I’m an experienced **Data Analyst** and **Information Technology Lecturer** wi
 
 
 ---
-## 📊 GitHub Stats
 
-## 🚀 Most Used Languages
+### 🚀 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apkirana&layout=compact&theme=radical)
 
 ---
