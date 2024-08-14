@@ -1,11 +1,21 @@
 <h1 align="center">👋 Hello! I'm Annisa Puspa Kirana</h1>
 
 <p align="center">
-  <a href="https://linktr.ee/puspakirana"><img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website" width="20"/> Website</a> •
-  <a href="https://www.linkedin.com/in/annisapuspakirana"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="20"/> LinkedIn</a> •
-  <a href="https://instagram.com/annisa.puspa.k"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" width="20"/> Instagram</a> •
-  <a href="https://www.youtube.com/channel/UC8JmNUEqOwsyMBDs9sE1voA"><img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube" width="20"/> YouTube</a> •
-  <a href="https://scholar.google.com/citations?user=BQl6KOsAAAAJ&hl=en"><img src="https://img.icons8.com/ios-filled/50/000000/google-scholar.png" alt="Google Scholar" width="20"/> Google Scholar</a>
+  <a href="https://linktr.ee/puspakirana">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website" width="25"/> Website
+  </a> •
+  <a href="https://www.linkedin.com/in/annisapuspakirana">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="25"/> LinkedIn
+  </a> •
+  <a href="https://instagram.com/annisa.puspa.k">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="25"/> Instagram
+  </a> •
+  <a href="https://www.youtube.com/channel/UC8JmNUEqOwsyMBDs9sE1voA">
+    <img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="YouTube" width="25"/> YouTube
+  </a> •
+  <a href="https://scholar.google.com/citations?user=BQl6KOsAAAAJ&hl=en">
+    <img src="https://img.icons8.com/color/48/000000/google-scholar.png" alt="Google Scholar" width="25"/> Google Scholar
+  </a>
 </p>
 
 ---
@@ -34,8 +44,11 @@ I’m an experienced **Data Analyst** and **Information Technology Lecturer** wi
 
 ---
 
-### 🚀 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apkirana&layout=compact&theme=radical)
+<h3 align="center">🚀 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apkirana&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
