@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello! I'm Annisa Puspa Kirana</h1>
 
 <p align="center">
-  <a href="https://linktr.ee/puspakirana">Website</a> •
-  <a href="https://www.linkedin.com/in/annisapuspakirana">LinkedIn</a> •
-  <a href="https://instagram.com/annisa.puspa.k">Instagram</a> •
-  <a href="https://www.youtube.com/channel/UC8JmNUEqOwsyMBDs9sE1voA">YouTube</a> •
-  <a href="https://scholar.google.com/citations?user=BQl6KOsAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://linktr.ee/puspakirana"><img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website" width="20"/> Website</a> •
+  <a href="https://www.linkedin.com/in/annisapuspakirana"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="20"/> LinkedIn</a> •
+  <a href="https://instagram.com/annisa.puspa.k"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" width="20"/> Instagram</a> •
+  <a href="https://www.youtube.com/channel/UC8JmNUEqOwsyMBDs9sE1voA"><img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube" width="20"/> YouTube</a> •
+  <a href="https://scholar.google.com/citations?user=BQl6KOsAAAAJ&hl=en"><img src="https://img.icons8.com/ios-filled/50/000000/google-scholar.png" alt="Google Scholar" width="20"/> Google Scholar</a>
 </p>
 
 ---
