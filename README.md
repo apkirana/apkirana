@@ -70,7 +70,7 @@ I’m an experienced **Data Analyst** and **Information Technology Lecturer** wi
 
 - **MCE: Microsoft Certified Educator** (Certiport, 2022 – Present)
 - **IT Specialist - HTML and CSS** (Certiport, 2022 – Present)
-- **Junior Web Developer ** (BNSP, 2021 – 2023)
+- **Junior Web Developer** (BNSP, 2021 – 2023)
 - **Administrating Database** (BNSP, 2019 – 2021)
 
 ---
