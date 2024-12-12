@@ -23,7 +23,6 @@
 ## Table of Contents
 - [👩‍💻 About Me](#-about-me)
 - [🚀 Most Used Languages](#-most-used-languages)
-- [💼 Experience](#-experience)
 - [📜 Certifications](#-certifications)
 - [🛠️ Skills](#-skills)
 - [📚 Publications](#-publications)
@@ -52,26 +51,12 @@ I’m an experienced **Data Analyst** and **Information Technology Lecturer** wi
 
 ---
 
-## 💼 Experience
-
-- **State Polytechnic of Malang**  
-  *Information Technology Lecturer*  
-  *August 2018 – Present*  
-  - 📘 Developed course material, 📝 lesson plans, 📚 curricula, 🧪 Conducted research, 👥 Engaged students in fieldwork.
-
-- **Brawijaya University**  
-  *Informatics Technology Lecturer*  
-  *June 2017 – June 2018*  
-  - 📘 Created educational materials, 👩‍🏫 Led student research activities.
-
----
-
 ## 📜 Certifications
 
-- **MCE: Microsoft Certified Educator** (Certiport, 2022 – Present)
-- **IT Specialist - HTML and CSS** (Certiport, 2022 – Present)
-- **Junior Web Developer** (BNSP, 2021 – 2023)
-- **Administrating Database** (BNSP, 2019 – 2021)
+- **MCE: Microsoft Certified Educator** (Certiport)
+- **IT Specialist - HTML and CSS** (Certiport)
+- **Junior Web Developer** (BNSP)
+- **Administrating Database** (BNSP)
 
 ---
 
