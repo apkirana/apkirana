@@ -31,33 +31,13 @@
 
 ## 👩‍💻 About Me
 
-I’m an experienced **Data Analyst** and **Information Technology Lecturer** with a strong background in **data mining**, **GIS**, **machine learning**, and **data visualization**. I’m passionate about transforming data into actionable insights and driving data-driven decision-making.
-
+Hello welcome
 ---
-
 <h3 align="center">🚀 Most Used Languages</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apkirana&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-## 📜 Certifications
-
-- **MCE: Microsoft Certified Educator** (Certiport)
-- **IT Specialist - HTML and CSS** (Certiport)
-- **Junior Web Developer** (BNSP)
-- **Administrating Database** (BNSP)
-
----
-
-## 🛠️ Skills
-
-- **Programming Languages:** Java, PHP, HTML, JS, CSS, SQL, Python, R
-- **Data Analysis:** Data Gathering, Data Processing, Data Analysis, Big Data, Machine Learning, Geospatial Analytics
-- **Tools:** Geographical Informational Systems (GIS), Remote Sensing, Spatio-temporal data analysis
-
 ---
 
 ## 📚 Publications
@@ -71,5 +51,4 @@ I’m an experienced **Data Analyst** and **Information Technology Lecturer** wi
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/annisapuspakirana) or follow me on [Instagram](https://instagram.com/annisa.puspa.k). You can also visit my [personal website](https://linktr.ee/puspakirana) for more information about my work and publications. Check out my [YouTube channel](https://www.youtube.com/channel/UC8JmNUEqOwsyMBDs9sE1voA) and [Google Scholar profile](https://scholar.google.com/citations?user=BQl6KOsAAAAJ&hl=en) as well!
 
 ---
-
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
