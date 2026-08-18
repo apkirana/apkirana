@@ -91,7 +91,7 @@ in a pipeline becomes a wrong decision on the ground.
 <br/>
 
 - **Bench4GeoCode: A Benchmark for Natural Language to Geospatial Code Generation**
-  <br/><sub>A. P. Kirana, M. Iyer, R. A. de By, M. Farnaghi — *1st International Workshop on Geography According to Foundation Models*</sub>
+  <br/><sub>A. P. Kirana, M. Iyer, R. A. de By, M. Farnaghi — *1st International Workshop on Geography According to Foundation Models* · [`code ↗`](https://github.com/apkirana/Bench4GeoCode)</sub>
 
 - **Constraint-aware AoV planning for orchestrating autonomous geospatial analysis with LLMs**
   <br/><sub>A. P. Kirana, M. Farnaghi, R. Zurita-Milla — *1st International Conference on Geospatial Artificial Intelligence*</sub>
@@ -145,7 +145,7 @@ in a pipeline becomes a wrong decision on the ground.
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**awesome-agentic-AI-for-ST**](https://github.com/apkirana/awesome-agentic-AI-for-ST) | Curated research on agentic AI and AI agents for spatio-temporal data | `research` |
+| [**Bench4GeoCode**](https://github.com/apkirana/Bench4GeoCode) | Benchmark for natural-language-to-geospatial-code generation — 4 complexity levels, robustness traps, verified reference solutions <sub>**(paper artefact)**</sub> | `Python` |
 | [**project_eucairpollution**](https://github.com/apkirana/project_eucairpollution) | Analysis and visualisation of European air pollution data | `Python` `HTML` |
 | [**lancedb_viewer**](https://github.com/apkirana/lancedb_viewer) | Viewer for exploring LanceDB vector stores | `Svelte` |
 | [**project_learn_LLM**](https://github.com/apkirana/project_learn_LLM) | Explainable Boosting Machines &amp; interactive model explanations | `Jupyter` |
