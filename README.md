@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://people.utwente.nl/puspa.kirana"><img src="https://img.shields.io/badge/University%20of%20Twente-ITC-00A6D6?style=for-the-badge&labelColor=0B1F3A" alt="University of Twente ITC faculty profile"/></a>
+  <a href="https://apkirana.github.io"><img src="https://img.shields.io/badge/PhD%20Journey%20Notes-Blog-C9A227?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0B1F3A" alt="PhD Journey Notes — research blog on Vision-Language Models"/></a>
   <a href="https://scholar.google.com/citations?user=BQl6KOsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0B1F3A" alt="Google Scholar profile"/></a>
   <a href="https://orcid.org/0000-0002-4622-1445"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0B1F3A" alt="ORCID 0000-0002-4622-1445"/></a>
   <a href="https://www.linkedin.com/in/annisapuspakirana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1F3A" alt="LinkedIn profile"/></a>
@@ -141,10 +142,32 @@ in a pipeline becomes a wrong decision on the ground.
 
 ---
 
-## 🧪 Open Source &amp; Applied Work
+## 🧪 Selected Work
+
+### 🤖 Research &amp; Agentic AI
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [**Bench4GeoCode**](https://github.com/apkirana/Bench4GeoCode) | Benchmark for natural-language-to-geospatial-code generation — 4 complexity levels, robustness traps for unsolvable and underspecified queries, verified reference solutions for functional evaluation. <sub>**Artefact of the 2026 paper.**</sub> | `Python` `LLM eval` |
+| [**project_eucairpollution**](https://github.com/apkirana/project_eucairpollution) | Autonomous **multi-agent system for Air Quality Index forecasting** over the JABODETABEK megaregion — orchestrator, data-collection, preprocessing, ML-ops and reporting agents around an LSTM model, with LLM-generated explainable summaries. <sub>**Submitted to the European Universities' Competition on AI.**</sub> | `Python` `LSTM` `XAI` |
+| [**PhD Journey Notes**](https://apkirana.github.io) | Ongoing research blog — Vision-Language Model paper reviews, research gaps, and future work. | `Research writing` |
+| [**project_learn_LLM**](https://github.com/apkirana/project_learn_LLM) | Explainable Boosting Machines with interactive, conversational model explanations — "talking to" a glass-box model. | `Jupyter` `XAI` |
+| [**lancedb_viewer**](https://github.com/apkirana/lancedb_viewer) | Visual CRUD interface for LanceDB vector stores, supporting RAG and embedding workflows. <sub>Extends `mythrantic/lancedb-viewer`.</sub> | `Svelte` `VectorDB` |
+
+### 🛰️ Applied Data Science &amp; Environmental Analytics
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**beatsuite-ai**](https://github.com/apkirana/beatsuite-ai) | Healthcare monitoring platform with real-time bidirectional voice conversation via the Gemini Live API and smart environment control, deployed to GCP Cloud Run. | `JavaScript` `Gemini` `GCP` |
+| [**project_polusikalimantan**](https://github.com/apkirana/project_polusikalimantan) | PM2.5 pollution analysis and interactive visualisation across Kalimantan, Indonesia. | `Jupyter` |
+| [**project-air-quality-analysis**](https://github.com/apkirana/project-air-quality-analysis) | Air quality classification for major Indonesian cities — cleaning, exploration, and predictive modelling. | `Python` |
+| [**project-air_quality_flask**](https://github.com/apkirana/project-air_quality_flask) | Flask web application serving air quality analytics and visualisations. | `Flask` |
+| [**project_forestfire**](https://github.com/apkirana/project_forestfire) | Forest fire data exploration with an interactive web dashboard. | `JS` `HTML` |
+| [**project_xmltoexcel**](https://github.com/apkirana/project_xmltoexcel) | Converter turning well-formed XML into analysable Excel/CSV tables. | `Python` |
+
+<p align="center"><sub>→ <a href="https://github.com/apkirana?tab=repositories">All 21 public repositories</a></sub></p>
+
+--- | --- | --- |
 | [**Bench4GeoCode**](https://github.com/apkirana/Bench4GeoCode) | Benchmark for natural-language-to-geospatial-code generation — 4 complexity levels, robustness traps, verified reference solutions <sub>**(paper artefact)**</sub> | `Python` |
 | [**project_eucairpollution**](https://github.com/apkirana/project_eucairpollution) | Analysis and visualisation of European air pollution data | `Python` `HTML` |
 | [**lancedb_viewer**](https://github.com/apkirana/lancedb_viewer) | Viewer for exploring LanceDB vector stores | `Svelte` |
