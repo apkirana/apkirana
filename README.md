@@ -44,7 +44,6 @@ ethical and trustworthy AI
   <img src="https://img.shields.io/badge/Citations-260+-4285F4?style=flat-square" alt="Citations"/>
   <img src="https://img.shields.io/badge/h--index-9-4285F4?style=flat-square" alt="h-index"/>
   <img src="https://img.shields.io/badge/i10--index-7-4285F4?style=flat-square" alt="i10-index"/>
-  <img src="https://img.shields.io/badge/Publications-30+-4285F4?style=flat-square" alt="Publications"/>
 </p>
 
 <p align="center"><sub>Source: <a href="https://scholar.google.com/citations?user=BQl6KOsAAAAJ&hl=en">Google Scholar</a></sub></p>
@@ -110,9 +109,10 @@ read and reused, not just run.
 
 ## 🛠️ Technical Skills
 
-**Languages** — Python · JavaScript · PHP · SQL · R
-**AI/ML** — PyTorch · scikit-learn · LLM agents & tool use · Model Context Protocol · RAG & vector search · VLMs
-**Geospatial** — QGIS · GDAL · GeoPandas · rasterio · Google Earth Engine · spatio-temporal clustering
+**Languages** — Python · JavaScript · PHP
+**AI/ML** — LLM agents & tool use · Model Context Protocol · RAG & vector search ·
+Vision-Language Models · deep learning & computer vision
+**Geospatial** — spatio-temporal clustering · geospatial analytics · land-cover mapping · disaster monitoring
 **Data & web** — Jupyter · pandas · Flask · Svelte · data visualisation
 
 <p align="center">
