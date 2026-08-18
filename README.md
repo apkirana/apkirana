@@ -173,11 +173,16 @@ in a pipeline becomes a wrong decision on the ground.
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apkirana&show_icons=true&hide_border=true&title_color=00A6D6&icon_color=C9A227&bg_color=0B1F3A&text_color=E6EDF3" alt="GitHub statistics for apkirana" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apkirana&layout=compact&hide_border=true&title_color=00A6D6&bg_color=0B1F3A&text_color=E6EDF3" alt="Most used programming languages" height="165"/>
+  <img src="https://img.shields.io/github/followers/apkirana?style=for-the-badge&logo=github&label=Followers&color=00A6D6&labelColor=0B1F3A" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/apkirana?style=for-the-badge&logo=github&label=Stars&color=C9A227&labelColor=0B1F3A" alt="Total stars across repositories"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-20-00A6D6?style=for-the-badge&logo=github&labelColor=0B1F3A" alt="20 public repositories"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apkirana&bg_color=0B1F3A&color=E6EDF3&line=00A6D6&point=C9A227&area=true&hide_border=true" alt="Contribution activity graph for apkirana" width="95%"/>
 </p>
 
 ---
