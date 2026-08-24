@@ -151,7 +151,7 @@ in a pipeline becomes a wrong decision on the ground.
 | [**Bench4GeoCode**](https://github.com/apkirana/Bench4GeoCode) | Benchmark for natural-language-to-geospatial-code generation — 4 complexity levels, robustness traps for unsolvable and underspecified queries, verified reference solutions for functional evaluation. <sub>**Artefact of the 2026 paper.**</sub> | `Python` `LLM eval` |
 | [**project_eucairpollution**](https://github.com/apkirana/project_eucairpollution) | Autonomous **multi-agent system for Air Quality Index forecasting** over the JABODETABEK megaregion — orchestrator, data-collection, preprocessing, ML-ops and reporting agents around an LSTM model, with LLM-generated explainable summaries. <sub>**Submitted to the European Universities' Competition on AI.**</sub> | `Python` `LSTM` `XAI` |
 | [**PhD Journey Notes**](https://apkirana.github.io) | Ongoing research blog — Vision-Language Model paper reviews, research gaps, and future work. | `Research writing` |
-| [**project_learn_LLM**](https://github.com/apkirana/project_learn_LLM) | Explainable Boosting Machines with interactive, conversational model explanations — "talking to" a glass-box model. | `Jupyter` `XAI` |
+| [**project_learn_LLM**](https://github.com/apkirana/project_learn_LLM) | Interpretability and architecture study notebooks — Explainable Boosting Machines narrated by an LLM, plus Vision Transformers built from the parts up. | `Jupyter` `XAI` |
 | [**lancedb_viewer**](https://github.com/apkirana/lancedb_viewer) | Visual CRUD interface for LanceDB vector stores, supporting RAG and embedding workflows. <sub>Extends `mythrantic/lancedb-viewer`.</sub> | `Svelte` `VectorDB` |
 
 ### 🛰️ Applied Data Science &amp; Environmental Analytics
@@ -162,18 +162,9 @@ in a pipeline becomes a wrong decision on the ground.
 | [**project_polusikalimantan**](https://github.com/apkirana/project_polusikalimantan) | PM2.5 pollution analysis and interactive visualisation across Kalimantan, Indonesia. | `Jupyter` |
 | [**project-air-quality-analysis**](https://github.com/apkirana/project-air-quality-analysis) | Air quality classification for major Indonesian cities — cleaning, exploration, and predictive modelling. | `Python` |
 | [**project-air_quality_flask**](https://github.com/apkirana/project-air_quality_flask) | Flask web application serving air quality analytics and visualisations. | `Flask` |
-| [**project_forestfire**](https://github.com/apkirana/project_forestfire) | Forest fire data exploration with an interactive web dashboard. | `JS` `HTML` |
 | [**project_xmltoexcel**](https://github.com/apkirana/project_xmltoexcel) | Converter turning well-formed XML into analysable Excel/CSV tables. | `Python` |
 
 <p align="center"><sub>→ <a href="https://github.com/apkirana?tab=repositories">All 21 public repositories</a></sub></p>
-
---- | --- | --- |
-| [**Bench4GeoCode**](https://github.com/apkirana/Bench4GeoCode) | Benchmark for natural-language-to-geospatial-code generation — 4 complexity levels, robustness traps, verified reference solutions <sub>**(paper artefact)**</sub> | `Python` |
-| [**project_eucairpollution**](https://github.com/apkirana/project_eucairpollution) | Analysis and visualisation of European air pollution data | `Python` `HTML` |
-| [**lancedb_viewer**](https://github.com/apkirana/lancedb_viewer) | Viewer for exploring LanceDB vector stores | `Svelte` |
-| [**project_learn_LLM**](https://github.com/apkirana/project_learn_LLM) | Explainable Boosting Machines &amp; interactive model explanations | `Jupyter` |
-| [**project_polusikalimantan**](https://github.com/apkirana/project_polusikalimantan) | PM2.5 pollution analysis across Kalimantan, Indonesia | `Jupyter` |
-| [**project-air-quality-analysis**](https://github.com/apkirana/project-air-quality-analysis) | Air quality classification for major Indonesian cities | `Python` |
 
 ---
 
@@ -201,7 +192,7 @@ in a pipeline becomes a wrong decision on the ground.
 <p align="center">
   <img src="https://img.shields.io/github/followers/apkirana?style=for-the-badge&logo=github&label=Followers&color=00A6D6&labelColor=0B1F3A" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/apkirana?style=for-the-badge&logo=github&label=Stars&color=C9A227&labelColor=0B1F3A" alt="Total stars across repositories"/>
-  <img src="https://img.shields.io/badge/Public%20Repos-20-00A6D6?style=for-the-badge&logo=github&labelColor=0B1F3A" alt="20 public repositories"/>
+  <img src="https://img.shields.io/github/last-commit/apkirana/apkirana?style=for-the-badge&logo=github&label=Last%20update&color=00A6D6&labelColor=0B1F3A" alt="Date of last update to this profile"/>
 </p>
 
 <p align="center">
