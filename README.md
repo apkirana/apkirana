@@ -159,6 +159,7 @@ in a pipeline becomes a wrong decision on the ground.
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**beatsuite-ai**](https://github.com/apkirana/beatsuite-ai) | Healthcare monitoring platform with real-time bidirectional voice conversation via the Gemini Live API and smart environment control, deployed to GCP Cloud Run. | `JavaScript` `Gemini` `GCP` |
+| [**project_forestfire**](https://github.com/apkirana/project_forestfire) | Interactive map of **NASA FIRMS active-fire detections across Indonesia, 2023** — date-filtered hotspots with fire radiative power and brightness temperature. <sub>Connects to my peatland hotspot clustering papers.</sub> | `Leaflet` `GeoJSON` `EO` |
 | [**project_polusikalimantan**](https://github.com/apkirana/project_polusikalimantan) | PM2.5 pollution analysis and interactive visualisation across Kalimantan, Indonesia. | `Jupyter` |
 | [**project-air-quality-analysis**](https://github.com/apkirana/project-air-quality-analysis) | Air quality classification for major Indonesian cities — cleaning, exploration, and predictive modelling. | `Python` |
 | [**project-air_quality_flask**](https://github.com/apkirana/project-air_quality_flask) | Flask web application serving air quality analytics and visualisations. | `Flask` |
@@ -170,6 +171,7 @@ in a pipeline becomes a wrong decision on the ground.
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**carpentry_python**](https://github.com/apkirana/carpentry_python) | Worked notebooks, exercise templates and datasets from the University of Twente Software Carpentry Python training — two days from NumPy analysis to command-line programs. | `Jupyter` `Teaching` |
+| [**geoai2026_agenticcourse**](https://github.com/apkirana/geoai2026_agenticcourse) | GeoAI 2026 workshop on agentic geospatial applications (Belgium, June 2026) — MCP tools, AG-UI agents, A2A delegation and human-in-the-loop maps. | `MCP` `LLM agents` |
 | [**project_xlstoaiken**](https://github.com/apkirana/project_xlstoaiken) | Converts Excel quiz banks into AIKEN format for bulk import into Moodle and other LMS platforms — built to spare colleagues a week of manual entry. | `Python` `LMS` |
 | [**project_xmltoexcel**](https://github.com/apkirana/project_xmltoexcel) | Converter turning well-formed XML into analysable Excel/CSV tables. | `Python` |
 
