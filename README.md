@@ -164,6 +164,15 @@ in a pipeline becomes a wrong decision on the ground.
 | [**project-air_quality_flask**](https://github.com/apkirana/project-air_quality_flask) | Flask web application serving air quality analytics and visualisations. | `Flask` |
 | [**project_xmltoexcel**](https://github.com/apkirana/project_xmltoexcel) | Converter turning well-formed XML into analysable Excel/CSV tables. | `Python` |
 
+
+### 🎓 Teaching &amp; Research Tooling
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**carpentry_python**](https://github.com/apkirana/carpentry_python) | Worked notebooks, exercise templates and datasets from the University of Twente Software Carpentry Python training — two days from NumPy analysis to command-line programs. | `Jupyter` `Teaching` |
+| [**project_xlstoaiken**](https://github.com/apkirana/project_xlstoaiken) | Converts Excel quiz banks into AIKEN format for bulk import into Moodle and other LMS platforms — built to spare colleagues a week of manual entry. | `Python` `LMS` |
+| [**project_xmltoexcel**](https://github.com/apkirana/project_xmltoexcel) | Converter turning well-formed XML into analysable Excel/CSV tables. | `Python` |
+
 <p align="center"><sub>→ <a href="https://github.com/apkirana?tab=repositories">All 21 public repositories</a></sub></p>
 
 ---
