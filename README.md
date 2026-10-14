@@ -206,7 +206,7 @@ in a pipeline becomes a wrong decision on the ground.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apkirana&bg_color=0B1F3A&color=E6EDF3&line=00A6D6&point=C9A227&area=true&hide_border=true" alt="Contribution activity graph for apkirana" width="95%"/>
+  <img src="https://ghchart.rshah.org/00A6D6/apkirana" alt="Contribution activity graph for apkirana" width="95%"/>
 </p>
 
 ---
