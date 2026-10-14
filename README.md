@@ -163,7 +163,6 @@ in a pipeline becomes a wrong decision on the ground.
 | [**project_polusikalimantan**](https://github.com/apkirana/project_polusikalimantan) | PM2.5 pollution analysis and interactive visualisation across Kalimantan, Indonesia. | `Jupyter` |
 | [**project-air-quality-analysis**](https://github.com/apkirana/project-air-quality-analysis) | Air quality classification for major Indonesian cities — cleaning, exploration, and predictive modelling. | `Python` |
 | [**project-air_quality_flask**](https://github.com/apkirana/project-air_quality_flask) | Flask web application serving air quality analytics and visualisations. | `Flask` |
-| [**project_xmltoexcel**](https://github.com/apkirana/project_xmltoexcel) | Converter turning well-formed XML into analysable Excel/CSV tables. | `Python` |
 
 
 ### 🎓 Teaching &amp; Research Tooling
